@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Brand Colors */
+.bg-purple {
+  background-color: #74308C;
+}
+.bg-green {
+  background-color: #009561;
+}
+.text-purple {
+  color: #74308C;
+}
+.text-green {
+  color: #009561;
+}
+.border-purple {
+  border-color: #74308C;
+}
+.border-green {
+  border-color: #009561;
+}
